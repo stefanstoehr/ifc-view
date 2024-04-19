@@ -1,6 +1,6 @@
 # :telescope: ifc gucken
 
-![Screenshot of the ifc-viewer opened with MS Edge.](src="screenshot.png")
+![Screenshot of the ifc-viewer opened with MS Edge.](https://github.com/stefanstoehr/ifc-view/blob/main/screenshot.png)
 
 ## sources, thanks and creation 
 
