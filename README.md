@@ -1,5 +1,7 @@
 # :telescope: ifc gucken
 
+![Screenshot of the ifc-viewer opened with MS Edge.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## sources, thanks and creation 
 
 :construction: A minimal working viewer from "That Open" (https://github.com/ThatOpen).
