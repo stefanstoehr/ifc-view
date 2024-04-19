@@ -1,6 +1,6 @@
 # :telescope: ifc gucken
 
-![Screenshot of the ifc-viewer opened with MS Edge.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of the ifc-viewer opened with MS Edge.](src="screenshot.png")
 
 ## sources, thanks and creation 
 
