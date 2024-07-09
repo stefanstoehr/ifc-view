@@ -13,7 +13,7 @@
 IFC-Notes #1: Different kind of models:
 ![Screenshot of the ifc-viewer opened with MS Edge.](https://github.com/stefanstoehr/ifc-view/blob/main/Modelle.PNG)
 
-IFC-Notes #2: models not equal models
+IFC-Notes #2: models not equal models:
 ![Screenshot of the ifc-viewer opened with MS Edge.](https://github.com/stefanstoehr/ifc-view/blob/main/Teilmodelle.PNG)
 
 Stefan
