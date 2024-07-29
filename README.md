@@ -1,4 +1,4 @@
-# :telescope: ifc gucken
+# :telescope: ifc viewer by ThatOpen
 
 ![Screenshot of the ifc-viewer opened with MS Edge.](https://github.com/stefanstoehr/ifc-view/blob/main/screenshot.png)
 
